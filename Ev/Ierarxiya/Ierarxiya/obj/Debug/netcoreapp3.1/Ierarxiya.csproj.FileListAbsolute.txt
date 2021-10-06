@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.exe
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.deps.json
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.runtimeconfig.json
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.dll
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.pdb
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.dll
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.pdb
+C:\Users\HP\Desktop\Ev\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.genruntimeconfig.cache
